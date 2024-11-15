@@ -7,6 +7,7 @@
 </div>
 
 <br>
+<br>
 Este repositorio contiene notas y resumenes propios de cada uno de los modulos, así como otros recursos útiles para prepararse para el examen AI-900: Microsoft Azure AI Fundamentals.
 
 <br>
@@ -41,6 +42,8 @@ Este repositorio contiene notas y resumenes propios de cada uno de los modulos, 
 - [Suscripción de Azure gratis durante 30 días](https://aka.ms/Azure-gratis)
 - [Suscripción de Azure para estudiantes](https://azure.microsoft.com/free/students/)
 
- EXTRA: Video de preparación para el examen AI-900: [Youtube](https://www.youtube.com/watch?v=hHjmr_YOqnU)
+<br>
+
+ 👉 EXTRA: Video de preparación para el examen AI-900: [Youtube](https://www.youtube.com/watch?v=hHjmr_YOqnU)
 
 <br>
