@@ -41,6 +41,6 @@ Este repositorio contiene notas y resumenes propios de cada uno de los modulos, 
 - [Suscripción de Azure gratis durante 30 días](https://aka.ms/Azure-gratis)
 - [Suscripción de Azure para estudiantes](https://azure.microsoft.com/free/students/)
 
- Video de introducción al examen AI-900: [AI-900: Microsoft Azure AI Fundamentals](https://www.youtube.com/watch?v=3Zz6j3wvX1A)
+ EXTRA: Video de preparación para el examen AI-900: [Youtube](https://www.youtube.com/watch?v=hHjmr_YOqnU)
 
 <br>
