@@ -11,6 +11,7 @@
 Este repositorio contiene notas y resumenes propios de cada uno de los modulos, así como otros recursos útiles para prepararse para el examen AI-900: Microsoft Azure AI Fundamentals.
 
 <br>
+<br>
 
 
 ### 🔍 HABILIDADES CLAVE
@@ -37,13 +38,20 @@ Este repositorio contiene notas y resumenes propios de cada uno de los modulos, 
 ### 🔗 RECURSOS 
 
 - [Curso AI-900 Microsoft Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/paths/ai-fundamentals/)
-- [Preguntas de práctica AI-900](https://learn.microsoft.com/es-es/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam)
-- [Laboratorios prácticos AI-900](https://learn.microsoft.com/es-es/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam)
+- [Preguntas de práctica oficiales](https://learn.microsoft.com/es-es/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam)
+- [Laboratorios AI-900](https://learn.microsoft.com/es-es/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam)
 - [Suscripción de Azure gratis durante 30 días](https://aka.ms/Azure-gratis)
 - [Suscripción de Azure para estudiantes](https://azure.microsoft.com/free/students/)
 
 <br>
 
- 👉 EXTRA: Video de preparación para el examen AI-900: [Youtube](https://www.youtube.com/watch?v=hHjmr_YOqnU)
+### 🎬 VIDEOS
 
+Si eres de los que prefieren ver videos, estos videos cubren todo el contenido teórico necesario para aprobar el examen. 
 <br>
+
+🔹 Video de preparación para tomar notas: [Youtube](https://www.youtube.com/watch?v=hHjmr_YOqnU)
+    
+🔹 Repaso antes del examen con los videos de John Savill: 
+1. [Youtube](https://youtu.be/bTkUTkXrqOQ?feature=shared)
+2. [Youtube](https://youtu.be/Ch6KE7KxHGM?feature=shared)
