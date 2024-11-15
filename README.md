@@ -3,7 +3,7 @@
 <br>
 
 <div style="text-align: center;">
-<img src="ai-900-logo.png" alt="ai-900-logo" width="200" height="200">
+<img src="images/ai-900-logo.png" alt="ai-900-logo" width="200" height="200">
 </div>
 
 <br>
